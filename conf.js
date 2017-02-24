@@ -12,7 +12,7 @@ exports.config = {
   framework: 'jasmine2',
 
 
-  specs: ['mytest.js'],
+  specs: ['mytest2.js'],
  
   jasmineNodeOpts: {
         defaultTimeoutInterval: 30000
